@@ -5,6 +5,7 @@ Network programming example(echo server and client) that uses SocketAsyncEventAr
 c# and GUI for Wpf and Silverlight.
 
 Based on MDSN Example 
+
 1.	Socket Performance Technology Sample. http://archive.msdn.microsoft.com/nclsamples/Wiki/View.aspx?title=Socket%20Performance
 2.	Sample Code for a Policy Server for Sockets. http://msdn.microsoft.com/en-us/library/cc645032(v=vs.95).aspx
 
@@ -12,6 +13,7 @@ Overview
 ========
 
 This is a basic example of socket programming for .Net. This example contains
+
 1.	WpfServer
 	Contains a socket server which echo what client sent back to the client 
 	and a policy server which are required for Silverlight application.
@@ -25,6 +27,7 @@ This is a basic example of socket programming for .Net. This example contains
 	A website that host SilverlightClient.
 	
 This example also contains extras not featured in MSDN. Noteable extras
+
 1.	Logging system.
 2.	GUI based application. MSDN example is a console application.
 
